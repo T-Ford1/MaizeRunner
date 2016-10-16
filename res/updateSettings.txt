@@ -1,0 +1,4 @@
+target updates per second:
+60
+target renders per second:
+60

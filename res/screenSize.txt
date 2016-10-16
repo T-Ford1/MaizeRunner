@@ -1,0 +1,9 @@
+you can change the numbers to edit graphics options in the game.
+screen width
+1024
+screen height
+700
+fullscreen (dimensions don't matter)
+true
+undecorated (the border is not visible)
+true

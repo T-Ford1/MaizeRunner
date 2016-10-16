@@ -1,0 +1,16 @@
+To move this machine,
+press the W, A, S, or D keys.
+The arrow keys will work
+just fine too. The movment
+works like driving. You
+have to turn before going
+in the direction you want.
+
+To fire the anti-wasp
+weapons, hold the left
+mouse or the right one.
+These instructions say,
+"Remember, the turret
+takes a while to turn to the
+yonder mouse place, so
+fire only when ready."

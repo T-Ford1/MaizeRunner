@@ -1,0 +1,23 @@
+ CREDITS
+
+
+Inspiration  - Market Team
+
+Storyline    -Terrell Ford
+
+Level Design -Terrell Ford
+
+Spritsheets  -Terrell Ford
+
+Program Lead -Terrell Ford
+
+Graphics Code-Terrell Ford
+
+Menu Designer-Terrell Ford
+
+
+PUBLISHED WITH THE USE OF
+
+ NO EXTERNAL DEVELOPMENT
+
+LIBRARIES,SE JDK 1.7 ONLY
